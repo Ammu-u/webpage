@@ -1,0 +1,278 @@
+body{
+    background-color: white;
+    font-family: 'Plus Jakarta Sans';
+ }
+ .main{
+    
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 10px;
+   
+    width: auto;
+    height: 875px;
+
+
+ }
+ .sub{
+    background-color: whitesmoke;
+    border-radius: 20px;
+    margin-left: 90px;
+    margin-right: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    height: 825px;
+    
+ }
+ .box1{
+    width: 565px;
+    height: 350px;
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    border-radius: 20px;
+    margin-left: 25px;
+    float: left;
+    padding-left: 20px;
+    color: white;
+ }
+ .box3{
+    background-color: white;
+    width: 280px;
+    height: 350px;
+    float: left;
+    margin-left: 20px;
+    border-radius: 20px;
+ }
+ .logo{
+    width: 50px;
+    height: 55px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+ }
+ .box2{
+    margin-left: 13px;
+    padding-bottom: 10px;
+ }
+ .name{
+    margin-left: 13px;
+    font-size: 20px;
+
+
+ }
+ a{
+   color: black;
+   text-decoration: none; 
+ }
+ .box2{
+    padding-top: 20px;
+    line-height: 25px;
+ }
+ .but{
+    margin-left: 13px;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(19, 248, 19);
+    color: white;
+    margin-top: 5px;
+ }
+ .not{
+    margin-left: 15px;
+ }
+ .noti{
+    margin-left: 100px;
+    font-weight: bolder;
+ }
+ .bor{
+    font-size: 13px;
+    font-style: bold;
+ }
+ .bro{
+    color: rgba(12, 166, 12, 0.867);
+    line-height: 25px;
+ }
+ .tip{
+    margin-left: 75px;
+ }
+ .brom{
+    color: rgba(12, 166, 12, 0.867);
+    line-height: 25px;
+    padding-bottom: 30px;
+ }
+ .clear{
+    margin-left: 100px;
+    
+ }
+ 
+ .four{
+    float:left;
+    width: 215px;
+    height: 220px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 25px;
+ }
+ .five{
+    float:left;
+    width: 215px;
+    height: 220px;
+    border-radius: 20px;
+    margin-top: 20px;
+    color: white;
+    margin-left: 25px;
+    background-image: url("background-gold-line-design-style-free-vector.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+ .six{
+    float:left;
+    width: 350px;
+    height: 220px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+ }
+ .pic{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 15px;
+    width: 150px;
+    height: 180px;
+    float: left;
+    border-radius: 10px;
+ }
+ .three{
+    width: 280px;
+    height: 460px;
+    float: right;
+    color: white;
+    margin-left: 0px;
+    margin-right: 25px;
+    border-radius: 15px;
+    margin-top: 20px;
+    background: linear-gradient(to right,black,grey);
+ }
+ .fire{
+    width: 30px;
+    height: 30px;
+    float: right;
+ }
+ .seven{
+    float:left;
+    width: 350px;
+    height: 220px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+ }
+ .con{
+    margin-left: 20px;
+ }
+ .cs{
+    margin-top: 15px;
+    
+ }
+.fum{
+    color: #34e00d;
+    font-weight: bold;
+    font-size: 13px;
+}
+.trend{
+    margin-left: 20px;
+    line-height: 30px;
+}
+.Ac{
+    margin-left: 24px;
+    padding-bottom: 20px;
+}
+.aa{
+    width: 220px;
+    height: 100px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    border-radius: 20px;
+    background:linear-gradient(to right,rgba(81, 78, 78, 0.547),rgb(90, 89, 89))
+}
+ .fire{
+    margin-top: 20px;
+    margin-right: 30px;
+    font-size: 40px;
+ }
+ .fun{
+    font-weight: bold;
+    font-size: 15px;
+    padding-top: 10px;
+    padding-left: 15px;
+ }
+ .foo{
+    padding-left: 15px;
+    font-size: 10px;
+    padding-top: 10px;
+ }
+
+.bar{
+    width: 130px;
+    height: 6px;
+    background-color: black;
+    margin-left: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+
+}
+.bar .bar-tip{
+    position: relative;
+    display: block;
+    background-color: #34e00d;
+    width: 75%;
+    height: 6px;
+    border-radius: 5px;
+}
+.bar .bar-top{
+    position: relative;
+    display: block;
+    background-color: #34e00d;
+    width: 50%;
+    height: 6px;
+    border-radius: 5px;
+}
+.bar .bar-tup{
+    position: relative;
+    display: block;
+    background-color: #34e00d;
+    width: 90%;
+    height: 6px;
+    border-radius: 5px;
+}
+.dot {
+    cursor: pointer;
+    height: 10px;
+    width: 10px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    transition: background-color 0.6s ease;
+    margin-top: 0px;
+  }
+.play{
+    margin-left: 90px;
+    fill: #34e00d;
+    border-color: white;
+    float: right;
+    margin-right: 20px;
+    width: 40px;
+    height: 40px;
+}
+.hid{
+    float: right;
+    color: white;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+
